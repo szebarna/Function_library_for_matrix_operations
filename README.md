@@ -1,2 +1,2 @@
-# Function_library_for_matrix_operations
+# Függvénykönyvtár mátrixműveletekhez
 Az első féléves programozás alapjai című tárgyhoz készült nagyházi feladatom.
